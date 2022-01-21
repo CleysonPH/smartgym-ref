@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "br.com.treinaweb.smartgym.token.accessKey",
+    "type": "java.lang.String",
+    "description": "Chave de assinatura para gerar os access tokens da aplicação"
+  },
+  {
+    "name": "br.com.treinaweb.smartgym.token.accessExpiration",
+    "type": "java.lang.String",
+    "description": "Tempo de expiração do access token em segundos"
+  },
+  {
+    "name": "br.com.treinaweb.smartgym.token.refreshKey",
+    "type": "java.lang.String",
+    "description": "Chave de assinatura para gerar os refresh tokens da aplicação"
+  },
+  {
+    "name": "br.com.treinaweb.smartgym.token.refreshExpiration",
+    "type": "java.lang.String",
+    "description": "Tempo de expiração do refresh token em segundos"
+  }
+]}
